@@ -1,4 +1,5 @@
 # Expense Tracker App
+This is a new app created using Flutter and we can trackk our daily expenses using this app.
 
 ## New key points I learned
 
@@ -7,16 +8,6 @@
 3. Enabling Dark theme for devices
 4. Creating Responsive apps.
 5. Taking user input.
-
-## Screenshots
-
-![ss1](<WhatsApp Image 2023-08-03 at 13.32.49.jpg>)
-![ss2](<WhatsApp Image 2023-08-03 at 13.32.49-1.jpg>)
-![ss3](<WhatsApp Image 2023-08-03 at 13.32.49-2.jpg>)
-![ss4](<WhatsApp Image 2023-08-03 at 13.32.48.jpg>)
-![ss5](<WhatsApp Image 2023-08-03 at 13.32.48-1.jpg>)
-![ss6](<WhatsApp Image 2023-08-03 at 13.32.48-2.jpg>)
-![ss7](<WhatsApp Image 2023-08-03 at 13.32.47.jpg>)
 
 ## Getting Started
 
